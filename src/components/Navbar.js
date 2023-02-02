@@ -7,7 +7,6 @@ import { AiOutlineCloseCircle } from 'react-icons/ai';
 
 const Navbar = () => {
     const [state,setState]=useState(true)
-    // setState(!state)
     const handlerchange =()=>{
         setState(!state)
     }
