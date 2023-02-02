@@ -86,9 +86,8 @@ color: #17cf97;
 nav{
     padding: 20px;
 }
-}
-@media screen and (max-width:400px){
-    .navbaractive{
+  .navbaractive{
         width: 200px !important;
     }
 }
+
